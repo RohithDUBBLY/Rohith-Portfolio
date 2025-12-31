@@ -9,5 +9,5 @@ export const firebaseConfig = {
   measurementId: "G-CVHC5CRLL2"
 };
 
-export const RESUME_URL = "/Rohith_R_Resume.pdf";
+export const RESUME_URL = "/Rohith Resume.pdf";
 export const PROFILE_IMG = "/profile.jpg";
